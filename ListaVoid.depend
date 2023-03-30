@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1677691407 source:d:\unla pc\2do a—o\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\proyectos de practica para el final\listavoid\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+	"lista.h"
+
+1677691486 source:d:\unla pc\2do a—o\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\proyectos de practica para el final\listavoid\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1677691486 d:\unla pc\2do a—o\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\proyectos de practica para el final\listavoid\persona.h
+
+1677691407 d:\unla pc\2do a—o\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\proyectos de practica para el final\listavoid\lista.h
+
+1677691407 source:d:\unla pc\2do a—o\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\proyectos de practica para el final\listavoid\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+	"lista.h"
+
